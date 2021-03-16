@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Parinay Seth.  I’m currently learning many languages such as Python and C++. 
 
 <!--
 **parinayseth/parinayseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
