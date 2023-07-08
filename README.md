@@ -2,7 +2,7 @@
 ### <br><p align="center">  "As a machine learning adventurer, I journey into uncharted data territories, charting new paths to discover hidden insights and uncover novel solutions to real-world problems."</p>
 <br><p align="center">  I specialize in TensorFlow, deep learning, and OpenCV, with hands-on experience in developing computer vision and Deep learning applications.<br>Currently, I'm diving deep into the fascinating world of Transformers & Language Models, exploring their potential in natural language processing tasks and their applications in various domains.</p><br><br>
 ## 🔬 Projects Experience
-🛠 Medi-Glimpse <br>Unveiling Insights in X-Ray Images through AI-driven Captioning and Intelligent Web Integration
+🛠 Medi-Glimpse <br>Unveiling Insights in X-Ray Images through AI-driven Captioning and Intelligent Web Integration <br>
 🛠 Motion-Revive<br>Empowering Recovery through AI-Driven Physiotherapy using Computer Vision with Web-Enabled Synergy <br>	                          GitHub Link - https://github.com/parinayseth/AI-Therapist-.git<br><br><br>🌟 Always excited to collaborate with other passionate developers and researchers. Let's connect and work together to create meaningful contributions to the ML community!<br><br>📫 You can reach me via email at parinay.seth@gmail.com or connect with me on LinkedIn www.linkedin.com/in/parinayseth0712. Looking forward to engaging with like-minded individuals and embarking on inspiring ML journeys!
 
 
